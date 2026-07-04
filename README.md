@@ -16,6 +16,13 @@ This project is a portable camera built with a Raspberry Pi 5, Raspberry Pi Came
 - SD Card
 - Button
 
+## More Info:
+Top to bottom:
+Raspberry Pi
+UPS Shield
+Battery
+LCD
+
 ## Power Setup
 
 ## Wiring
