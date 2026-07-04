@@ -3,8 +3,8 @@ This project is a portable camera built with a Raspberry Pi 5, Raspberry Pi Came
 
 ## How to Use It
 
-## Why We Made it
-
+## Why We Made 
+<img width="1979" height="1670" alt="image" src="https://github.com/user-attachments/assets/10f061ea-1d76-4d25-b115-140ef309af11" />
 
 ## Materials:
 - Raspberry Pi 5 1 GB
