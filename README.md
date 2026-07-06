@@ -38,6 +38,12 @@ Images are displayed on the screen through a python script. Firmware available i
 5. 3D print the casing
 6. Screw the UPS board and UPS board together. Screw the screen to the connection piece which the other pieces snap onto.
 7. Assemble all the parts inside of the case (see Assembly section)
+   
+## Photo Gallery Website
+
+The Raspberry Pi runs a small local web server that displays the photos saved by the camera. Each time a photo is taken, it is saved into `/boot/firmware/photos`, and the website reads that folder to show the newest images first.
+
+The gallery can be opened from another device on the same Wi-Fi network by visiting the Pi’s IP address on port `8000`, such as `http://172.20.10.12:8000`. The page includes a refresh button so new photos can be loaded without the page constantly reloading automatically.
 
 ## Bill of Materials
 
