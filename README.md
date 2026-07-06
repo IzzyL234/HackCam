@@ -4,9 +4,6 @@ This project is a portable camera built with a Raspberry Pi 5, Raspberry Pi Came
 ## Why We Made It
 In the case that the world ends, we need a way to preserve memories for future generations or possibly aliens when they come to Earth. What better way than a camera!
 
-## The Casing
-<img width="1979" height="1670" alt="image" src="https://github.com/user-attachments/assets/10f061ea-1d76-4d25-b115-140ef309af11" />
-
 The screen is wired to the Raspberry Pi 5 and the battery is wired to the power management board and will be placed perpendicular. The UPS board, screen, and microcontroller will be all stacked together compactly. The design sketch is pointed out by a red arrow. 
 
 ## Materials:
@@ -19,7 +16,9 @@ The screen is wired to the Raspberry Pi 5 and the battery is wired to the power 
 - SD Card
 - Button
 
-## More Info:
+## Assembly
+<img width="463" height="292" alt="image" src="https://github.com/user-attachments/assets/4dcd0030-cbed-40a6-b5f2-400e9995d073" />
+<img width="808" height="601" alt="image" src="https://github.com/user-attachments/assets/8bef2bca-5087-4fc1-a9ed-40545d8adb5f" />
 
 
 ## Power Setup
@@ -29,13 +28,16 @@ The screen is wired to the Raspberry Pi 5 and the battery is wired to the power 
 Schematic Here
 
 ## Firmware
-Images are displayed on the screen through a python script. 
+Images are displayed on the screen through a python script. Firmware available in Firmware folder. 
 
 ## How to Assemble and Setup
 1. Flash the Pi 5
 2. Wire the screen to the Pi 5 (see schematic)
-3. Connect the Camera Module to the rasp pi 5
-4. ...
+3. Connect the Camera Module to the Rasp Pi 5
+4. Wire the button to the Rasp Pi 5
+5. 3D print the casing
+6. Screw the UPS board and UPS board together. Screw the screen to the connection piece which the other pieces snap onto.
+7. Assemble all the parts inside of the case (see Assembly section)
 
 ## Bill of Materials
 
