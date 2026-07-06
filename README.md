@@ -7,9 +7,9 @@ This project is a portable camera built with a Raspberry Pi 5, Raspberry Pi Came
 ## Why We Made It
 In the case that the world ends, we need a way to preserve memories for future generations or possibly aliens when they come to Earth. What better way than a camera!
 
-The screen is wired to the Raspberry Pi 5 and the battery is wired to the power management board and will be placed perpendicular. The UPS board, screen, and microcontroller will be all stacked together compactly. The design sketch is pointed out by a red arrow. 
+The screen is wired to the Raspberry Pi 5 and the battery is wired to the power management board and will be placed perpendicular. The UPS board, screen, and microcontroller will be all stacked together compactly
 
-## Materials:
+## Materials
 - Raspberry Pi 5 1 GB
 - Raspberry Pi Camera
 - 3.5 in SPI Module (screen)
