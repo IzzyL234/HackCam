@@ -1,6 +1,10 @@
 # HackCam
 This project is a portable camera built with a Raspberry Pi 5, Raspberry Pi Camera, SPI display, rechargeable LiPo battery, charger board, SD card, and button. The camera is designed to show a live preview on the screen and capture photos when the button is pressed.
 
+<img width="1398" height="2000" alt="image" src="https://github.com/user-attachments/assets/539f64ed-5a27-450b-86b3-8501fbfabf60" />
+
+
+
 ## Why We Made It
 In the case that the world ends, we need a way to preserve memories for future generations or possibly aliens when they come to Earth. What better way than a camera!
 
