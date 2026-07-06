@@ -3,7 +3,7 @@ This project is a portable camera built with a Raspberry Pi 5, Raspberry Pi Came
 
 <img width="1398" height="2000" alt="image" src="https://github.com/user-attachments/assets/933dcdc0-8e79-49a5-8aea-1c4682c85ae7" />
 
-
+![pic](HackCam-Zine.png)
 
 ## Why We Made It
 In the case that the world ends, we need a way to preserve memories for future generations or possibly aliens when they come to Earth. What better way than a camera!
