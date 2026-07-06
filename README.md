@@ -24,7 +24,8 @@ The screen is wired to the Raspberry Pi 5 and the battery is wired to the power 
 <img width="808" height="601" alt="image" src="https://github.com/user-attachments/assets/8bef2bca-5087-4fc1-a9ed-40545d8adb5f" />
 
 ## Wiring
-Schematic Here
+<img width="453" height="317" alt="image" src="https://github.com/user-attachments/assets/eb010e62-6483-4afa-a386-accc6db9f03f" />
+
 
 ## Firmware
 Images are displayed on the screen through a python script. Firmware available in Firmware folder. 
