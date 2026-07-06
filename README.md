@@ -18,6 +18,7 @@ The screen is wired to the Raspberry Pi 5 and the battery is wired to the power 
 
 ## Assembly
 <img width="463" height="292" alt="image" src="https://github.com/user-attachments/assets/4dcd0030-cbed-40a6-b5f2-400e9995d073" />
+<img width="355" height="247" alt="image" src="https://github.com/user-attachments/assets/dca0102e-d7eb-46ab-9e82-d6ad248b41e2" />
 <img width="808" height="601" alt="image" src="https://github.com/user-attachments/assets/8bef2bca-5087-4fc1-a9ed-40545d8adb5f" />
 
 
