@@ -37,7 +37,6 @@ Images are displayed on the screen through a python script.
 3. Connect the Camera Module to the rasp pi 5
 4. ...
 
-## BOM
 ## Bill of Materials
 
 | Product Name | Quantity | Unit Price | Total Price | Link |
